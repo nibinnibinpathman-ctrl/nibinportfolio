@@ -178,17 +178,17 @@ header {
 /* Hero Card */
 
 .hero-card {
-    width: 240px;
-    height: 410px;
-    border: 1px solid #292929;
+    width: 20%;
+    height: 20%;
+    /* border: 1px solid #292929; */
     display: flex;
     align-items: center;
     justify-content: center;
-
+    overflow: hidden;
     position: relative;
 
-    background:
-        radial-gradient(circle at center, #1b1b1b, #4d4b4b);
+    /* background:
+        radial-gradient(circle at center, #1b1b1b, #4d4b4b); */
 /* }
 
 .profile-circle {
